@@ -1,0 +1,9 @@
+{
+  "name": "signalpoint/2dcdk",
+  "description": "2D Canvas Development Kit",
+  "require": {
+    "guzzlehttp/guzzle": "~6.0",
+    "cboden/ratchet": "^0.4",
+    "twbs/bootstrap": "^5.0"
+  }
+}
